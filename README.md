@@ -37,7 +37,7 @@ Before setting up the project make sure the LTS (Long Term Support) version of N
 4. Install all the dependencies
 
 ```
-    yarn
+    yarn install
 ```
 
 5. Start the development server.
